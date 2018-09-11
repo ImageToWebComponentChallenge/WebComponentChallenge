@@ -17,3 +17,7 @@ Output:
 - Element is pristine
 
 Screenshots:
+
+![first](https://github.com/AlejandroPeralTaboada/WebComponentChallenge/blob/master/001-TimePicker/Imgs/Img2.png)
+
+![second](https://github.com/AlejandroPeralTaboada/WebComponentChallenge/blob/master/001-TimePicker/Imgs/Img1.png)
